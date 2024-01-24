@@ -1,0 +1,6 @@
+"Reference","Value","Footprint","Qty","DNP","MFG","MPN","OC_LCSC","OC_Mouser"
+"C1,C3","2.2µF","Capacitor_SMD:C_0402_1005Metric","2","","Murata Electronics","GRM155R61C225KE11D","C88944","81-GRM155R61C225KE1D"
+"C2","1µF","Capacitor_SMD:C_0402_1005Metric","1","","Murata Electronics","GRM155R61C105KA12D","C77006","81-GRM155R61C105KA2D"
+"J1","Conn_02x06_Odd_Even","hdmi-pmod:PinHeader_2x06_P2.54mm_Horizontal","1","","TE Connectivity","826634-6","~","571-826634-6"
+"J2","HDMI_A","hdmi-pmod:HDMI_A_Molex_208658-1001_Horizontal","1","","Molex","208658-1001","~","538-208658-1001"
+"U1","LM2775DSG","Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm","1","","Texas Instruments","LM2775DSGT","C2070762","595-LM2775DSGT"
