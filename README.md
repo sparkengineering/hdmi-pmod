@@ -1,5 +1,9 @@
 # hdmi-pmod
 
+[![Upload to - AISLER](https://img.shields.io/badge/Upload_to_-AISLER-ff8000)](https://aisler.net/p/new?url=https://raw.githubusercontent.com/sparkengineering/hdmi-pmod/main/hdmi-pmod.kicad_pcb&ref=github)
+[![View with - KiCanvas](https://img.shields.io/badge/KiCanvas-b187ff?label=View%20with
+)](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fsparkengineering%2Fhdmi-pmod)
+
 ![3D render of this HDMI Pmod breakout board](./hdmi-pmod.png)
 
 ## Description
