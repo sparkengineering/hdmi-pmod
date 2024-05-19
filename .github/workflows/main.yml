@@ -10,7 +10,7 @@ jobs:
 
       - name: Run KiCad ERC
         id: erc
-        uses: sparkengineering/kicad-action@v1
+        uses: sparkengineering/kicad-action@v2
         if: '!cancelled()'
         with:
           kicad_sch: hdmi-pmod.kicad_sch
@@ -18,7 +18,7 @@ jobs:
 
       - name: Run KiCad DRC
         id: drc
-        uses: sparkengineering/kicad-action@v1
+        uses: sparkengineering/kicad-action@v2
         if: '!cancelled()'
         with:
           kicad_pcb: hdmi-pmod.kicad_pcb
