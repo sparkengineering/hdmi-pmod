@@ -1,3 +1,5 @@
+name: ERC/DRC
+
 on: [push]
 
 jobs:
